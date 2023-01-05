@@ -8,7 +8,7 @@
 
 <p align="center">Python | SQL | R | STATA | SAS | Tableau</p> 
 
-- 📚 currently learning: web scraping
+- 📚 currently learning: HTML, web scraping
 - 📫 : jimenas@uchicago.edu 
 - Pronouns: She/her
 
