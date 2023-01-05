@@ -12,5 +12,5 @@
 - 📫 : jimenas@uchicago.edu 
 - Pronouns: She/her
 
-[<p align="center"><img width="59" alt="linkedinpic" src="https://user-images.githubusercontent.com/111835409/210676720-0f379390-8568-40b9-ba63-1df4944a88a4.png"></p>](https://www.linkedin.com/in/salinasjimena/)
+[<img alt="LinkedInLogo" src="https://user-images.githubusercontent.com/111835409/210693542-64293748-3c31-420e-b386-d00647e86472.png"></p>](https://www.linkedin.com/in/salinasjimena/)
 
