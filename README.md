@@ -9,6 +9,8 @@
 <p align="center">Python | SQL | R | STATA | SAS | Tableau</p> 
 
 
-- 📫 How to reach me: jimenas@uchicago.edu
-- 😄 Pronouns: She/her
+- 📫 : jimenas@uchicago.edu 
+- Pronouns: She/her
 
+[<p align="center"><img width="30" alt="linkedinpic" src="https://user-images.githubusercontent.com/111835409/210676427-02d9dc88-310e-453d-b879-7325b1612a9b.png"></p>
+](https://www.linkedin.com/in/salinasjimena/)
