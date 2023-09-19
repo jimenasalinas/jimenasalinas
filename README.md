@@ -6,9 +6,9 @@
 
 **<p align="center">Skill set:</p>**
 
-<p align="center">Python | SQL | R | STATA | SAS | Tableau</p> 
+<p align="center">Python | SQL | R | PyTorch | TensorFlow | Tableau</p> 
 
-- 📚 currently learning: HTML, web scraping
+- 📚 currently learning: HTML, Hadoop, Spark, Ruby
 - 📫 : jimenas@uchicago.edu 
 - Pronouns: She/her
 
