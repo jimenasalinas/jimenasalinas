@@ -16,4 +16,3 @@
 [<img alt="LinkedInLogo" src="https://user-images.githubusercontent.com/111835409/210693542-64293748-3c31-420e-b386-d00647e86472.png"></p>](https://www.linkedin.com/in/salinasjimena/)
 
 
-<p align="center"> [![GitHub Streak](https://streak-stats.demolab.com?jimenasalinas)](https://git.io/streak-stats)o</p>
