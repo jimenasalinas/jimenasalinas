@@ -12,7 +12,8 @@
 - 📫 : jimenas@uchicago.edu 
 - Pronouns: She/her
 
-
+Let's connect:
 [<img alt="LinkedInLogo" src="https://user-images.githubusercontent.com/111835409/210693542-64293748-3c31-420e-b386-d00647e86472.png"></p>](https://www.linkedin.com/in/salinasjimena/)
 
 
+<p align="center"> [![GitHub Streak](https://streak-stats.demolab.com?user=jimenasalinas&theme=nightowl&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)</p>
