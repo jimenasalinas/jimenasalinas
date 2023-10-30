@@ -11,6 +11,7 @@
 - 📚 currently learning: HTML, Hadoop, Spark, Ruby
 - 📫 : jimenas@uchicago.edu 
 - Pronouns: She/her
+- [jimenasalinas.github.io](https://jimenasalinas.github.io)
 
 
 Let's connect!
