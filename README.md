@@ -9,9 +9,9 @@
 <p align="center">Python | SQL | R | PyTorch | TensorFlow | Tableau</p> 
 
 - 📚 currently learning: HTML, Hadoop, Spark, Ruby
-- 📫 : jimenas@uchicago.edu 
-- Pronouns: She/her
+- 📫 : jimenas@uchicago.edu
 - 🌐 [jimenasalinas.github.io](https://jimenasalinas.github.io)
+- Pronouns: She/her
 
 
 Let's connect!
