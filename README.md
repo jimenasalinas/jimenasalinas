@@ -10,7 +10,7 @@
 
 - 📚 currently learning: HTML, Hadoop, Spark, Ruby
 - 📫 : jimenas@uchicago.edu
-- 🌐 [jimenasalinas.github.io](https://jimenasalinas.github.io)
+- 🌐 : [jimenasalinas.github.io](https://jimenasalinas.github.io)
 - Pronouns: She/her
 
 
